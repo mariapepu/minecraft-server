@@ -4,7 +4,7 @@ FROM itzg/minecraft-server
 # Configura las variables de entorno para el servidor
 ENV EULA=TRUE \
     TYPE=FORGE \
-    VERSION=1.20.6 \
+    VERSION=1.20.1 \
     REMOVE_OLD_MODS=true \
     SEED=1691256543523180978
 
